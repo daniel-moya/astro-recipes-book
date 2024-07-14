@@ -1,0 +1,9 @@
+[submodule "recipes/astro-stripe-recipe"]
+	path = recipes/astro-stripe-recipe
+	url = https://github.com/daniel-moya/astro-stripe-recipe
+[submodule "recipes/astro-pagination-recipe"]
+	path = recipes/astro-pagination-recipe
+	url = https://github.com/daniel-moya/astro-pagination-recipe
+[submodule "recipes/astro-wpquery-recipe"]
+	path = recipes/astro-wpquery-recipe
+	url = https://github.com/daniel-moya/astro-wpquery-recipe
