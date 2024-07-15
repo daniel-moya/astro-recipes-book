@@ -2,6 +2,8 @@
 Contains a handfull collection of astro recipes and examples for building landing pages, blogs, ecommerces, authentication, pagination, and more
 
 # List
+[Supabase Auth](https://github.com/daniel-moya/astro-supabase-recipe)
+
 [Pagination](https://github.com/daniel-moya/astro-pagination-recipe)
 
 [Stripe Integration](https://github.com/daniel-moya/astro-stripe-recipe)
