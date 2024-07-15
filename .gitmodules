@@ -7,3 +7,6 @@
 [submodule "recipes/astro-wpquery-recipe"]
 	path = recipes/astro-wpquery-recipe
 	url = https://github.com/daniel-moya/astro-wpquery-recipe
+[submodule "recipes/astro-supabase-recipe"]
+	path = recipes/astro-supabase-recipe
+	url = https://github.com/daniel-moya/astro-supabase-recipe
