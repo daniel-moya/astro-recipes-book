@@ -10,3 +10,5 @@ Contains a handfull collection of astro recipes and examples for building landin
 * [Supabase Auth](https://github.com/daniel-moya/astro-supabase-recipe)
 
 * [Stripe Integration](https://github.com/daniel-moya/astro-stripe-recipe)
+
+* [Auth + Shopping Cart](https://github.com/daniel-moya/astro-supabase-shop-cart)
