@@ -1,8 +1,7 @@
 # Astro Recipes Book
+Welcome to the **Astro Recipes Book** – a curated collection of Astro recipes and examples designed to help you build various types of web applications with ease. Whether you're working on landing pages, blogs, e-commerce sites, authentication systems, pagination, or more, you'll find practical examples and ready-to-use code here. 
 
 ![Astro Recipes Book Logo](logo.jpeg)
-
-Welcome to the **Astro Recipes Book** – a curated collection of Astro recipes and examples designed to help you build various types of web applications with ease. Whether you're working on landing pages, blogs, e-commerce sites, authentication systems, pagination, or more, you'll find practical examples and ready-to-use code here.
 
 ## Table of Contents
 
