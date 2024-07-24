@@ -10,3 +10,6 @@
 [submodule "recipes/astro-supabase-recipe"]
 	path = recipes/astro-supabase-recipe
 	url = https://github.com/daniel-moya/astro-supabase-recipe
+[submodule "recipes/astro-actions-ecom-sqlite-recipe"]
+	path = recipes/astro-actions-ecom-sqlite-recipe
+	url = https://github.com/daniel-moya/astro-actions-ecom-sqlite-recipe
