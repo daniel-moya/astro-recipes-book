@@ -48,7 +48,7 @@ You can add `--recursive` to clone all recipes
 * [Astro Actions Ecommerce with Sqlite/Turso](https://github.com/daniel-moya/astro-actions-ecom-sqlite-recipe)
   - Combine Astro actions with Sqlite database using Turso to build a functional shopping cart for ecommerce stores.
 
-* [Emailing with Mailgun](https://github.com/daniel-moya/astro-actions-ecom-sqlite-recipe)
+* [Emailing with Mailgun](https://github.com/daniel-moya/astro-mailgun-recipe)
   - Combine Astro endpoint with Mailgun API small client to send emails.
 
 ## Contributing
