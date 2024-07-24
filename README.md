@@ -45,8 +45,8 @@ You can add `--recursive` to clone all recipes
 * [Stripe Integration](https://github.com/daniel-moya/astro-stripe-recipe)
   - Integrate Stripe for the new embedded checkout session processing.
 
-* [Supabase Auth + Shopping Cart](https://github.com/daniel-moya/astro-supabase-shop-cart)
-  - Combine Supabase authentication and PostgreSQL shopping cart schemas to power a production-ready shopping cart system.
+* [Astro Actions Ecommerce with Sqlite/Turso](https://github.com/daniel-moya/astro-actions-ecom-sqlite-recipe)
+  - Combine Astro actions with Sqlite database using Turso to build a functional shopping cart for ecommerce stores.
 
 ## Contributing
 
